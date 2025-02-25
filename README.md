@@ -22,7 +22,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shashican17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shashican17" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shashikant17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashikant17" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shashican" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shashican" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shashican17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shashican17" height="30" width="40" /></a>
@@ -48,8 +47,6 @@
 
 <p align="left"> <a href="https://twitter.com/shashican17" target="blank"><img src="https://img.shields.io/twitter/follow/shashican17?logo=twitter&style=for-the-badge" alt="shashican17" /></a> </p>
 
-- 🔭 I’m currently working on [The World Around](https://github.com/shashican17/The_World_Around)
-
 - 🌱 I’m currently learning **Flutter and MERN stack**
 
 - 👯 I’m looking to collaborate on **Any flutter or MERN stack project that is exciting.**
@@ -62,7 +59,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shashican17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shashican17" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shashikant17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashikant17" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shashican" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shashican" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shashican17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shashican17" height="30" width="40" /></a>
