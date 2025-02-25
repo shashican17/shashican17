@@ -1,6 +1,6 @@
 <img alt="developer" src="https://e0.pxfuel.com/wallpapers/766/945/desktop-wallpaper-custom-software-development-graphic-design-computer-program.jpg">
 <h1 align="center">Hi 👋, I'm Shashikant Yadav</h1>
-<h3 align="center">A passionate flutter developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 <img align="left" alt="Developer" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
 
@@ -10,17 +10,15 @@
 
 <p align="left"> <a href="https://twitter.com/shashican17" target="blank"><img src="https://img.shields.io/twitter/follow/shashican17?logo=twitter&style=for-the-badge" alt="shashican17" /></a> </p>
 
-- 🔭 I’m currently working on [The World Around](https://github.com/shashican17/The_World_Around)
+- 🌱 I’m currently working on **Flutter, NextJs, Java, C programming, and C++ programming**
 
-- 🌱 I’m currently learning **Flutter and MERN stack**
-
-- 👯 I’m looking to collaborate on **Any flutter or MERN stack project that is exciting.**
+- 👯 I’m looking to collaborate on **Any flutter, NextJs, or Networking project that is exciting.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shashican17](https://github.com/shashican17)
 
-- 💬 Ask me about **Flutter, HTML, CSS, MERN stack**
+- 💬 Ask me about **Flutter, HTML, CSS, Javascript, C/C++, and Java**
 
-- 📫 How to reach me **yshashikant17@outlook.com**
+- 📫 How to reach me **yshashikant1706@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
